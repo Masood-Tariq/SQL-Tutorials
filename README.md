@@ -1,4 +1,4 @@
-This is the SQL Educational Repository, ranging from Basic to Expert levels.
+This is the SQL Educational Repository, ranging from Basic to Expert levels tutorials.
 
 These SQL codes are based on the KCC Database, which is used in SSMS.  
 
